@@ -1673,19 +1673,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mikkel  Norinder\\.nuget\\packages\\": {}
+    "C:\\Users\\Bruger\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mikkel  Norinder\\RiderProjects\\NewFileWriterSpike\\NewFileWriterSpike\\NewFileWriterSpike.csproj",
+      "projectUniqueName": "C:\\Users\\Bruger\\RiderProjects\\NewFileWriterSpike\\NewFileWriterSpike\\NewFileWriterSpike.csproj",
       "projectName": "NewFileWriterSpike",
-      "projectPath": "C:\\Users\\Mikkel  Norinder\\RiderProjects\\NewFileWriterSpike\\NewFileWriterSpike\\NewFileWriterSpike.csproj",
-      "packagesPath": "C:\\Users\\Mikkel  Norinder\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mikkel  Norinder\\RiderProjects\\NewFileWriterSpike\\NewFileWriterSpike\\obj\\",
+      "projectPath": "C:\\Users\\Bruger\\RiderProjects\\NewFileWriterSpike\\NewFileWriterSpike\\NewFileWriterSpike.csproj",
+      "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Bruger\\RiderProjects\\NewFileWriterSpike\\NewFileWriterSpike\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Mikkel  Norinder\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Bruger\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -1758,7 +1758,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.303/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

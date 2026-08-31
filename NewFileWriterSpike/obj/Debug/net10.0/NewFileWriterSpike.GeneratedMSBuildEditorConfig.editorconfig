@@ -8,8 +8,8 @@ build_property.AvaloniaNameGeneratorViewFileNamingStrategy = NamespaceAndClassNa
 build_property.AvaloniaNameGeneratorAttachDevTools = true
 build_property.AvaloniaUseCompiledBindingsByDefault = true
 build_property.AvaloniaMainPackageVersion = 12.1.1
-build_property.AvaloniaPreviewerNetCoreToolPath = C:\Users\Mikkel  Norinder\.nuget\packages\avalonia\12.1.1\buildTransitive\\..\tools\net8.0\designer\Avalonia.Designer.HostApp.dll
-build_property.AvaloniaResourcePaths = C:\Users\Mikkel  Norinder\RiderProjects\NewFileWriterSpike\NewFileWriterSpike\Assets\avalonia-logo.ico,C:\Users\Mikkel  Norinder\RiderProjects\NewFileWriterSpike\NewFileWriterSpike\App.axaml,C:\Users\Mikkel  Norinder\RiderProjects\NewFileWriterSpike\NewFileWriterSpike\Views\MainWindow.axaml
+build_property.AvaloniaPreviewerNetCoreToolPath = C:\Users\Bruger\.nuget\packages\avalonia\12.1.1\buildTransitive\\..\tools\net8.0\designer\Avalonia.Designer.HostApp.dll
+build_property.AvaloniaResourcePaths = C:\Users\Bruger\RiderProjects\NewFileWriterSpike\NewFileWriterSpike\Assets\avalonia-logo.ico
 build_property.MvvmToolkitEnableINotifyPropertyChangingSupport = true
 build_property._MvvmToolkitIsUsingWindowsRuntimePack = false
 build_property.CsWinRTComponent = 
@@ -27,14 +27,14 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property.EntryPointFilePath = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = NewFileWriterSpike
-build_property.ProjectDir = C:\Users\Mikkel  Norinder\RiderProjects\NewFileWriterSpike\NewFileWriterSpike\
+build_property.ProjectDir = C:\Users\Bruger\RiderProjects\NewFileWriterSpike\NewFileWriterSpike\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Mikkel  Norinder/RiderProjects/NewFileWriterSpike/NewFileWriterSpike/App.axaml]
+[C:/Users/Bruger/RiderProjects/NewFileWriterSpike/NewFileWriterSpike/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[C:/Users/Mikkel  Norinder/RiderProjects/NewFileWriterSpike/NewFileWriterSpike/Views/MainWindow.axaml]
+[C:/Users/Bruger/RiderProjects/NewFileWriterSpike/NewFileWriterSpike/Views/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
