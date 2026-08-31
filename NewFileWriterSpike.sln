@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewFileWriterSpike", "NewFileWriterSpike\NewFileWriterSpike.csproj", "{7020510F-23DD-4370-9557-5C55D9EF9037}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7020510F-23DD-4370-9557-5C55D9EF9037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7020510F-23DD-4370-9557-5C55D9EF9037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7020510F-23DD-4370-9557-5C55D9EF9037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7020510F-23DD-4370-9557-5C55D9EF9037}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
